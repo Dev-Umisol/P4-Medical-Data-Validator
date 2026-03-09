@@ -68,4 +68,4 @@ medical-validator/
 └── README.md
 ```
 
-*Part of my Python learning journey 🐍 — practising data validation, regular expressions, and dictionary unpacking*
+*Part of my Python learning journey 🐍 — practicing data validation, regular expressions, and dictionary unpacking*
